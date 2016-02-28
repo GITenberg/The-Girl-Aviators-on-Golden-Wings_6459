@@ -1,0 +1,23 @@
+_repo: The-Girl-Aviators-on-Golden-Wings_6459
+creator:
+  author:
+    agent_name: Burnham, Margaret
+    gutenberg_agent_id: '2051'
+    url: http://www.gutenberg.org/2009/agents/2051
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Airplanes -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Women air pilots -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Girl Aviators on Golden Wings
+url: http://www.gutenberg.org/ebooks/6459
